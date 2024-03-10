@@ -1,0 +1,23 @@
+{
+  "name": "upgraded-dollop",
+  "version": "1.0.0",
+  "description": "basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolya955/upgraded-dollop.git"
+  },
+  "dependencies": {
+    "reimagined-eurekahui": "1.0.0",
+    "ubiquitous-disco": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolya955/upgraded-dollop/issues"
+  },
+  "homepage": "https://github.com/kolya955/upgraded-dollop#readme"
+}
